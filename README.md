@@ -1,3 +1,7 @@
+Created by Sahar Clil
+Email: sahar.clili12@gmail.com
+Phone: 0548266522
+
 # Blog API
 
 This project constitutes a simple RESTful API for managing blog posts and comments.
